@@ -1,0 +1,14 @@
+h3 {
+  border: 1px solid grey;
+  color: red;
+}
+
+.app {
+  font-size: 2rem;
+  font-weight: bold;
+  color: rebeccapurple;
+}
+
+.text {
+  color: green;
+}
